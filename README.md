@@ -3,7 +3,7 @@
 I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of Applied Math and CS programm. I am open to work at Machine Learning and Data Science, C++, C#, Python sphere. Find out more about me & feel free to connect with me here:
 
 
-
+## Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamidov-siyovush-70a20b1a6/)](https://www.linkedin.com/in/hamidov-siyovush-70a20b1a6/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siyovushchik14@gmail.com)](mailto:siyovushchik14@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/hamidovsiyovush)](https://www.kaggle.com/hamidovsiyovush)
@@ -11,7 +11,7 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat-square&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
 
 
-## ⚡ Languages & Technologies ⚡
+## Languages & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
