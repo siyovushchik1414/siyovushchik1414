@@ -8,9 +8,11 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 
 [![Gmail Badge](https://img.shields.io/badge/-siyovushchik14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siyovushchik14@gmail.com)](mailto:siyovushchik14@gmail.com)
 
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+[![Kaggle](https://img.shields.io/badge/HamidovSiyovush-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/hamidovsiyovush)](https://www.kaggle.com/hamidovsiyovush)
 
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/hamidovsiyovush)
+[![LeetCode](https://img.shields.io/badge/HamidovSiyovush-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/siyovushchik1414/)](https://leetcode.com/siyovushchik1414/)
+
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
 
 
 ## ⚡ Technologies
