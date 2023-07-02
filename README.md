@@ -37,7 +37,7 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=siyovushchik1414&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyovushchik1414&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=siyovushchik1414.siyovushchik1414)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=siyovushchik1414)
