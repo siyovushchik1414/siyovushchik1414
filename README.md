@@ -41,3 +41,10 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyovushchik1414&hide=TeX&layout=compact)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=siyovushchik1414&label=Visitors&countColor=%23263759&style=flat&labelStyle=upper)
+
+## Certifications
+https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE Fundamentals of Scalable Data Science
+
+https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR TOOLS FOR DS
+https://www.coursera.org/account/accomplishments/verify/B32838V98B53 EDA for ML
+https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX Web App Techs and Django
