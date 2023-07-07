@@ -48,3 +48,5 @@ https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE Fundamental
 https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR TOOLS FOR DS
 https://www.coursera.org/account/accomplishments/verify/B32838V98B53 EDA for ML
 https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX Web App Techs and Django
+![image](https://github.com/siyovushchik1414/siyovushchik1414/assets/93854666/489fa6d9-bdd5-48ef-9308-e3ae04a379bd)
+
