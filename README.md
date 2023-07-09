@@ -38,12 +38,13 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=siyovushchik1414&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyovushchik1414&hide=TeX&layout=compact)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=siyovushchik1414&label=Visitors&countColor=%23263759&style=flat&labelStyle=upper)
 
 ## Certifications And Courses
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)  [Duolingo : English Test](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat-square&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)  [Duolingo : English Test](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
 
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/verify/B32838V98B53)](https://www.coursera.org/account/accomplishments/verify/B32838V98B53)  [IBM : Expoloratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/verify/B32838V98B53)
 
