@@ -43,7 +43,7 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=siyovushchik1414&label=Visitors&countColor=%23263759&style=flat&labelStyle=upper)
 
 ## Certifications And Courses
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)[Duolingo : English Test](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)[Duolingo : English Test](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
 [IBM : Expoloratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/verify/B32838V98B53)
 [IBM : Fundamentals of Scalable Data Science](https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE)
 [IBM : Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR)
