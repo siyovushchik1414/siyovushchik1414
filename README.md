@@ -44,6 +44,7 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 
 ## Certifications
 [Expoloratory Data Analysis for Machine Learning IBM Coursera](https://www.coursera.org/account/accomplishments/verify/B32838V98B53)
+
 https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE Fundamentals of Scalable Data Science
 
 https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR TOOLS FOR DS
