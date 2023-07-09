@@ -4,7 +4,7 @@ import base64
   
 def main():
   st.set_page_config(page_title='Hamidov Siyovush', page_icon=None, initial_sidebar_state='auto')
-  st.title("  Hamidov Siyovush's")
+  st.title("  Hamido1 Siyovush's")
   st.title("Certificates and Courses")
 
   pdf_url = "https://drive.google.com/uc?id=11AnC1jZwve4YsvSbr9-mS-v6q5ZmpoAm"
