@@ -18,3 +18,12 @@ DjangoURL = f'https://drive.google.com/file/d/{Django}/view'
 
 st.markdown(f'**PDF:** [Exploratory Data Analysis for Machine Learning]({ExpDataURL})')
 st.markdows('https://www.coursera.org/account/accomplishments/verify/B32838V98B53]')
+
+from pdf2image import convert_from_path
+import streamlit as st
+
+# Замените 'path/to/file.pdf' на соответствующее значение
+images = convert_from_path('Exploratory Data Analysis for Machine Learning.pdf')
+
+for image in images:
+    st.image(image)
