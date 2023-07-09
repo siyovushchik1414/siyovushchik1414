@@ -43,8 +43,12 @@ I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=siyovushchik1414&label=Visitors&countColor=%23263759&style=flat&labelStyle=upper)
 
 ## Certifications And Courses
-[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=plastic&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)  [Duolingo : English Test](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=flat&logo=Duolingo&logoColor=white&link=https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)  [Duolingo : English Test](https://certs.duolingo.com/d222d312854553e4ac972a74e8a85f52)
+
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/verify/B32838V98B53)](https://www.coursera.org/account/accomplishments/verify/B32838V98B53)  [IBM : Expoloratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/verify/B32838V98B53)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat-square&logo=Coursera&logoColor=white)(https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE)  [IBM : Fundamentals of Scalable Data Science](https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=social&logo=Coursera&logoColor=white)(https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR)  [IBM : Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR)
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)(https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX)  [University Of Michigan : Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX)
+
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE)](https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE)  [IBM : Fundamentals of Scalable Data Science](https://www.coursera.org/account/accomplishments/verify/9LDWMFP788HE)
+
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=social&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR)](https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR)  [IBM : Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/3UV44Z96DRFR)
+
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX)](https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX)  [University Of Michigan : Web Application Technologies and Django](https://www.coursera.org/account/accomplishments/verify/ZCXLNTRNAGYX)
