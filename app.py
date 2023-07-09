@@ -10,5 +10,3 @@ file_id = '11AnC1jZwve4YsvSbr9-mS-v6q5ZmpoAm'
 file_url = f'https://drive.google.com/file/d/{file_id}/view'
 
 st.markdown(f'**PDF:** [link]({file_url})')
-
-st.components.v1.iframe(pdf_viewer_url, width=800, height=1000)
