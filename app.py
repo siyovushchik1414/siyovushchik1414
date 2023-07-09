@@ -17,4 +17,4 @@ ToolsForDSURL = f'https://drive.google.com/file/d/{ToolsForDS}/view'
 DjangoURL = f'https://drive.google.com/file/d/{Django}/view'
 
 st.markdown(f'**PDF:** [Exploratory Data Analysis for Machine Learning]({ExpDataURL})')
-st.markdows(f'**PDF:** [https://www.coursera.org/account/accomplishments/verify/B32838V98B53])
+st.markdows(https://www.coursera.org/account/accomplishments/verify/B32838V98B53])
