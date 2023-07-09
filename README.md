@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of Applied Math and CS programm. I am open to work at Machine Learning and Data Science, C++, C#, Python sphere. Find out more about me & feel free to connect with me here:
+I am Hamidov Siyovush, currently enrolled at Moscow State University Bachelor of Applied Mathematics and Computer Science programm. I am open to work at Machine Learning and Data Science, C++, C#, Python sphere. Find out more about me & feel free to connect with me here:
 
 
 ## Contacts
